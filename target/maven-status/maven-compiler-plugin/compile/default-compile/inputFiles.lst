@@ -1,0 +1,14 @@
+/Users/lfs/Desktop/jupiter/src/main/java/com/laioffer/jupiter/db/MySQLConnection.java
+/Users/lfs/Desktop/jupiter/src/main/java/com/laioffer/jupiter/entity/Game.java
+/Users/lfs/Desktop/jupiter/src/main/java/com/laioffer/jupiter/HelloServlet.java
+/Users/lfs/Desktop/jupiter/src/main/java/com/laioffer/jupiter/entity/Item.java
+/Users/lfs/Desktop/jupiter/src/main/java/com/laioffer/jupiter/entity/ItemType.java
+/Users/lfs/Desktop/jupiter/src/main/java/com/laioffer/jupiter/servlet/GameServlet.java
+/Users/lfs/Desktop/jupiter/src/main/java/com/laioffer/jupiter/external/TwitchClient.java
+/Users/lfs/Desktop/jupiter/src/main/java/com/laioffer/jupiter/db/MySQLTableCreator.java
+/Users/lfs/Desktop/jupiter/src/main/java/com/laioffer/jupiter/db/MySQLDBUtil.java
+/Users/lfs/Desktop/jupiter/src/main/java/com/laioffer/jupiter/db/MySQLException.java
+/Users/lfs/Desktop/jupiter/src/main/java/com/laioffer/jupiter/servlet/SearchServlet.java
+/Users/lfs/Desktop/jupiter/src/main/java/com/laioffer/jupiter/entity/FavoriteRequestBody.java
+/Users/lfs/Desktop/jupiter/src/main/java/com/laioffer/jupiter/external/TwitchException.java
+/Users/lfs/Desktop/jupiter/src/main/java/com/laioffer/jupiter/servlet/FavoriteServlet.java
